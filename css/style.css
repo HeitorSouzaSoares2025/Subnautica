@@ -19,7 +19,7 @@ html {
 
 /* Classe para o fundo principal da página */
 .background {
-  background: url("img/90d092fb-6fa2-4a74-8af4-c1ee9913c753.png") no-repeat center center fixed;
+  background: url("img/logosubnautica.png") no-repeat center center fixed;
   /* Imagem de fundo centralizada, fixa na tela, sem repetição */
   background-size: cover;  /* A imagem cobre todo o container, cortando o que extrapolar */
   height: 100vh;           /* Altura da viewport */
